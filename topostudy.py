@@ -1,3 +1,5 @@
+# Copyright Menno Nijboer, 2015
+
 from __future__ import division
 
 import pyglet
