@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<map>
+	<place x="738" y="81" name="Port Elizabeth" size="0.8" />
+	<place x="597" y="72" name="Mossel Bay" size="0.8" />
+	<place x="303" y="66" name="Cape Town" size="0.8" />
+	<place x="871" y="160" name="East London" size="0.8" />
+	<place x="273" y="133" name="Vredenburg" size="0.6" />
+	<place x="176" y="385" name="Port Nolioth" size="0.6" />
+	<place x="550" y="84" name="George" size="0.6" />
+	<place x="1065" y="388" name="Durban" size="0.8" />
+	<place x="896" y="502" name="Bethelehem" size="0.6" />
+	<place x="845" y="431" name="Masaru" size="0.6" />
+	<place x="1020" y="408" name="Pietermaritzburg" size="0.8" />
+	<place x="669" y="467" name="Kimberley" size="0.6" />
+	<place x="777" y="448" name="Bloemfontijn" size="0.8" />
+	<place x="800" y="520" name="Welkom" size="0.6" />
+	<place x="440" y="478" name="Upington" size="0.6" />
+	<place x="366" y="102" name="Worcester" size="0.6" />
+	<place x="519" y="263" name="Loxton" size="0.6" />
+	<place x="638" y="320" name="De Aar" size="0.6" />
+	<place x="401" y="324" name="Brandvlei" size="0.6" />
+	<place x="251" y="487" name="Luginsland" size="0.6" />
+	<place x="782" y="560" name="Nala Rural" size="0.8" />
+	<place x="999" y="537" name="Newcastle" size="0.8" />
+	<place x="727" y="206" name="Cradock" size="0.6" />
+	<place x="799" y="237" name="Queenstown" size="0.6" />
+	<place x="845" y="329" name="Quthing" size="0.6" />
+	<place x="255" y="341" name="Kamieskroon" size="0.6" />
+	<place x="421" y="185" name="Sutherland" size="0.6" />
+	<place x="548" y="395" name="Prieska" size="0.6" />
+	<place x="922" y="285" name="Tsolo" size="0.6" />
+	<place x="540" y="518" name="Olifantshoek" size="0.6" />
+	<place x="272" y="224" name="Lamberts Bay" size="0.6" />
+	<place x="559" y="190" name="Beaufort West" size="0.6" />
+</map>
